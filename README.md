@@ -100,7 +100,7 @@ Components:
 5. Testing:
   - Function: Validate generated formulas.
   - Tools: Unit tests, sample spreadsheets.
-Outcome:
+6. Outcome/Maintain:
   - Tool: Converts natural language queries into functional Excel formulas.
   - Integration: Formulas are ready for use in spreadsheets.
   - Feedback: Users can refine generated code.
