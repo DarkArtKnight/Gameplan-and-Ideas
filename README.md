@@ -85,25 +85,25 @@ Outcome: A system for adding, editing, and deleting contact information.
 **Excel Enviornment**
 Build an AI tool to generate Excel formulas or macros from natural language descriptions.
 Components:
-NLP Processing:
-Function: Understand user input.
-Tools: NLTK, spaCy, Hugging Face Transformers.
-Formula Generator:
-Function: Create Excel formulas/macros.
-Tools: openpyxl, pandas, xlwings.
-User Interface:
-Function: Collect input and display results.
-Tools: CLI, Flask, Django, Tkinter.
-Template Repository:
-Function: Store formula templates.
-Tools: JSON, YAML files.
-Testing:
-Function: Validate generated formulas.
-Tools: Unit tests, sample spreadsheets.
+1. NLP Processing:
+  - Function: Understand user input.
+  - Tools: NLTK, spaCy, Hugging Face Transformers.
+2. Formula Generator:
+  - Function: Create Excel formulas/macros.
+  - Tools: openpyxl, pandas, xlwings.
+3. User Interface:
+  - Function: Collect input and display results.
+  - Tools: CLI, Flask, Django, Tkinter.
+4. Template Repository:
+  - Function: Store formula templates.
+  - Tools: JSON, YAML files.
+5. Testing:
+  - Function: Validate generated formulas.
+  - Tools: Unit tests, sample spreadsheets.
 Outcome:
-Tool: Converts natural language queries into functional Excel formulas.
-Integration: Formulas are ready for use in spreadsheets.
-Feedback: Users can refine generated code.
+  - Tool: Converts natural language queries into functional Excel formulas.
+  - Integration: Formulas are ready for use in spreadsheets.
+  - Feedback: Users can refine generated code.
 
 
 
